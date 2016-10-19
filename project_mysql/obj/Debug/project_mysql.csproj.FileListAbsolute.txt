@@ -1,0 +1,11 @@
+f:\project\project_mysql\project_mysql\bin\Debug\project_mysql.exe.config
+f:\project\project_mysql\project_mysql\bin\Debug\project_mysql.exe
+f:\project\project_mysql\project_mysql\bin\Debug\project_mysql.pdb
+f:\project\project_mysql\project_mysql\bin\Debug\MySql.Data.dll
+f:\project\project_mysql\project_mysql\bin\Debug\MySql.Data.xml
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.csprojResolveAssemblyReference.cache
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.Form1.resources
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.Properties.Resources.resources
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.csproj.GenerateResource.Cache
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.exe
+f:\project\project_mysql\project_mysql\obj\Debug\project_mysql.pdb
